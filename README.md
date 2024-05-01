@@ -19,7 +19,6 @@ To obtain it follow the steps [here](https://support.atlassian.com/atlassian-acc
 **COPY IT TO SOMEWHERE SAFE AND DON'T LOSE IT**
 - Project key: You will find your project key by navigating to here:
 <br>
-![text](res/image.png)
 ![text](res/image-1.png)
 <br>
 - Server: the server is just your project's cloud URL trimmed, for example:
