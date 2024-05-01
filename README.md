@@ -18,9 +18,7 @@ These are necessary to properly identify and grant the script access your Jira p
 To obtain it follow the steps [here](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/)
 **COPY IT TO SOMEWHERE SAFE AND DON'T LOSE IT**
 - Project key: You will find your project key by navigating to here:
-<br>
 ![text](res/image-1.png)
-<br>
 - Server: the server is just your project's cloud URL trimmed, for example:
 If this is your project's URL is something like: *https://lapr2-team06.atlassian.net/jira/software/projects/KAN/boards/1/backlog*
 The server is that URL's server address: https://lapr2-team06.atlassian.net
