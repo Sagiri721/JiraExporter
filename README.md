@@ -38,11 +38,11 @@ Upon a successful finish, two files should be created:
 - backlog_issues.json
 - backlog_issues.xlsx
 
-The excel file will have a neet table with all the information you need to recreate your board
+The excel file will have a neat table with all the information you need to recreate your board
 <br>
 ![alt text](res/image-2.png)
 <br>
 While the JSON file will have it all structured in object notation so you can further treat the data any way you like
 
 
-> Author: Tiago Simões, 1DG
+> Author: Sagiri721
